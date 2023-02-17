@@ -8,6 +8,7 @@ console.log(templateTest);
 /**
  * アロー関数
  */
+console.log("-----START arrow-----");
 
 //従来の関数の書き方
 function func1(str) {
